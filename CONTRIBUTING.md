@@ -1,7 +1,7 @@
 # 🤝 Contributing Guidelines
 
-Thank you for considering contributing to **SIH2025-EngiTantra-Tourist-Safety**!  
-We’re excited to collaborate and build this project together 🚀.
+Thank you for considering contributing to **SIH-2025-FloatChat**!  
+We’re building an **AI-powered conversational system for ARGO float data**, and your contributions will help us make oceanographic data more accessible and meaningful. 🌊
 
 ---
 
@@ -11,8 +11,8 @@ We’re excited to collaborate and build this project together 🚀.
    - Click the **Fork** button on the top right of this repo.
    - Clone your fork:
      ```bash
-     git clone https://github.com/<your-username>/SIH2025-EngiTantra-Tourist-Safety.git
-     cd SIH2025-EngiTantra-Tourist-Safety
+     git clone https://github.com/<your-username>/SIH-2025-FloatChat.git
+     cd SIH-2025-FloatChat
      ```
 
 2. **Create a Branch**
@@ -22,22 +22,26 @@ We’re excited to collaborate and build this project together 🚀.
      ```
 
 3. **Make Changes**
-   - Add your code, docs, or fixes.
-   - Follow the repo structure (code goes in `code/`, docs in `docs/`, etc.).
+   - Place code in the correct folder (`backend/`, `frontend/`, `data/`).
+   - Place documentation in `docs/`.
+   - Keep commits small, focused, and descriptive.
 
 4. **Commit Changes**
-   - Write clear commit messages:
+   - Use meaningful commit messages:
      ```bash
      git add .
-     git commit -m "Added [feature/fix]: short description"
+     git commit -m "Added feature: salinity profile visualization"
      ```
 
 5. **Push Changes**
    ```bash
    git push origin feature/your-feature-name
 
-6. **Create a Pull Request (PR)**
+6. **Open a Pull Request (PR)**
 
-- Go to the original repo.
+- Go to the original repository on GitHub.
 - Open a Pull Request from your forked branch.
-- Add a clear description of what you’ve done.
+- Clearly describe:
+- What changes were made
+- Why they are needed
+- How they were tested
