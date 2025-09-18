@@ -160,14 +160,6 @@ SIH-2025-FloatChat/
       <br />
     </td>
     <td align="center">
-      <a href="https://github.com/jeevan1276">
-        <img src="https://github.com/jeevan1276.png" width="100px;" alt="Jeevan"/>
-        <br />
-        <sub><b>Manepalli Jeevan</b></sub>
-      </a>
-      <br/>
-    </td>
-    <td align="center">
       <a href="https://github.com/Surya070805">
         <img src="https://github.com/Surya070805.png" width="100px;" alt="Surya"/>
         <br />
