@@ -73,27 +73,26 @@ The proposed system will:
 ---
 
 ## 📂 Repository Structure  
-
-- SIH-2025-FloatChat/
-- ├── code/ # Source code
-- │ ├── backend/ # APIs, database connectors, RAG pipeline
-- │ ├── frontend/ # Streamlit/Dash dashboard & chatbot UI
-- │ └── data/ # Sample ARGO NetCDF files, SQL/Parquet outputs
-- │
-- ├── docs/ # Documentation
-- │ ├── problem_statement.md
-- │ ├── approach.md
-- │ └── architecture.png
-- │
-- ├── demo/ # Demo videos, screenshots, sample outputs
-- │
-- ├── ppt/ # SIH pitch deck
-- │
-- ├── .gitignore
-- ├── README.md
-- ├── CONTRIBUTING.md
-- └── LICENSE
-
+```
+SIH-2025-FloatChat/
+├── code/ # Source code
+│ ├── backend/ # APIs, database connectors, RAG pipeline
+│ ├── frontend/ # Streamlit/Dash dashboard & chatbot UI
+│ └── data/ # Sample ARGO NetCDF files, SQL/Parquet outputs
+│
+├── docs/ # Documentation
+│ ├── approach.md 
+│ └── architecture.png
+│
+├── demo/ # Demo videos, screenshots, sample outputs
+│
+├── ppt/ # SIH pitch deck
+│
+├── .gitignore
+├── README.md
+├── CONTRIBUTING.md
+└── LICENSE
+```
 
 ---
 
